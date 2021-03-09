@@ -1,0 +1,10 @@
+C:\Users\CASPER\Desktop\2 DERSLER\Data Structures\Veri Yapıları 1\Veri Yapıları 1\bin\Debug\Veri Yapıları 1.exe.config
+C:\Users\CASPER\Desktop\2 DERSLER\Data Structures\Veri Yapıları 1\Veri Yapıları 1\bin\Debug\Veri Yapıları 1.exe
+C:\Users\CASPER\Desktop\2 DERSLER\Data Structures\Veri Yapıları 1\Veri Yapıları 1\bin\Debug\Veri Yapıları 1.pdb
+C:\Users\CASPER\Desktop\2 DERSLER\Data Structures\Veri Yapıları 1\Veri Yapıları 1\obj\Debug\Veri Yapıları 1.csprojAssemblyReference.cache
+C:\Users\CASPER\Desktop\2 DERSLER\Data Structures\Veri Yapıları 1\Veri Yapıları 1\obj\Debug\Veri_Yapıları_1.Form1.resources
+C:\Users\CASPER\Desktop\2 DERSLER\Data Structures\Veri Yapıları 1\Veri Yapıları 1\obj\Debug\Veri_Yapıları_1.Properties.Resources.resources
+C:\Users\CASPER\Desktop\2 DERSLER\Data Structures\Veri Yapıları 1\Veri Yapıları 1\obj\Debug\Veri Yapıları 1.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\2 DERSLER\Data Structures\Veri Yapıları 1\Veri Yapıları 1\obj\Debug\Veri Yapıları 1.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\2 DERSLER\Data Structures\Veri Yapıları 1\Veri Yapıları 1\obj\Debug\Veri Yapıları 1.exe
+C:\Users\CASPER\Desktop\2 DERSLER\Data Structures\Veri Yapıları 1\Veri Yapıları 1\obj\Debug\Veri Yapıları 1.pdb
